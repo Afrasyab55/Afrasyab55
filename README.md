@@ -46,7 +46,7 @@ const aboutMuhammadAfrasyab = {
 
 ## My Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afrasyab55show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afrasyab55&show_icons=true&count_private=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afrasyab55&layout=compact)
 
 ## Let's Connect:
